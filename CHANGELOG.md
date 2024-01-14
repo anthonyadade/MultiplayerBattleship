@@ -1,0 +1,5 @@
+-We made the constructor for Coord public 
+-added a hitsOnOpponent list in our aiplayer
+-implemented the successful hits in our aiplayer
+-implemented the endGame method in our AiPlayer class
+-added abstract
