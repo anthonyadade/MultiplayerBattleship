@@ -1,4 +1,4 @@
-This was an assignment done in my OOD class, it invovled writing a program in java that could communicate with a multiplayer server using JSON and play a modified version of battleship with other students. Also the gameplayb was automated, so the students coded "AI" that would play. The "AI" in my program fired randomly.
+This was an assignment done in my OOD class, it involved writing a program in java that could communicate with a multiplayer server using JSON and play a modified version of battleship with other students. Also the gameplayb was automated, so the students coded "AI" that would play. The "AI" in my program fired randomly.
 
 Original README:
 
